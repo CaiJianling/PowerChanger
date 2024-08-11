@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtdIZMrTtj0=",
+  "success": true,
+  "projectFilePath": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\PowerChanger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CaiJianling\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23401.1\\microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\CaiJianling\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23401.1\\microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512"
+  ],
+  "logs": []
+}

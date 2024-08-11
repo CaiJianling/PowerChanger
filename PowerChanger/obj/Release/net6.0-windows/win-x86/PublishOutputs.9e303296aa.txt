@@ -1,0 +1,1 @@
+F:\WS\CSharp\PowerChanger\PowerChanger\PowerChanger\bin\Release\net6.0-windows\publish\win-x86\PowerChanger.exe

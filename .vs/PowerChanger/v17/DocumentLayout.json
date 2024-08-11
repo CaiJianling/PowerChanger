@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6007AD5-96BD-4292-B369-E0B063395653}|PowerChanger\\PowerChanger.csproj|f:\\ws\\csharp\\powerchanger\\powerchanger\\powerchanger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6007AD5-96BD-4292-B369-E0B063395653}|PowerChanger\\PowerChanger.csproj|solutionrelative:powerchanger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6007AD5-96BD-4292-B369-E0B063395653}|PowerChanger\\PowerChanger.csproj|f:\\ws\\csharp\\powerchanger\\powerchanger\\powerchanger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6007AD5-96BD-4292-B369-E0B063395653}|PowerChanger\\PowerChanger.csproj|solutionrelative:powerchanger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6007AD5-96BD-4292-B369-E0B063395653}|PowerChanger\\PowerChanger.csproj|f:\\ws\\csharp\\powerchanger\\powerchanger\\powerchanger\\powerchanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6007AD5-96BD-4292-B369-E0B063395653}|PowerChanger\\PowerChanger.csproj|solutionrelative:powerchanger\\powerchanger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6007AD5-96BD-4292-B369-E0B063395653}|PowerChanger\\PowerChanger.csproj|f:\\ws\\csharp\\powerchanger\\powerchanger\\powerchanger\\powerchanger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C6007AD5-96BD-4292-B369-E0B063395653}|PowerChanger\\PowerChanger.csproj|solutionrelative:powerchanger\\powerchanger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 214,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PowerChanger\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PowerChanger\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:50:20.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerChanger.csproj",
+              "DocumentMoniker": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\PowerChanger.csproj",
+              "RelativeDocumentMoniker": "PowerChanger\\PowerChanger.csproj",
+              "ToolTip": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\PowerChanger.csproj",
+              "RelativeToolTip": "PowerChanger\\PowerChanger.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T12:16:05.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PowerChanger",
+              "DocumentMoniker": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\PowerChanger.csproj",
+              "RelativeDocumentMoniker": "PowerChanger\\PowerChanger.csproj",
+              "ToolTip": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\PowerChanger.csproj",
+              "RelativeToolTip": "PowerChanger\\PowerChanger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T12:16:09.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PowerChanger\\MainWindow.xaml",
+              "ToolTip": "F:\\WS\\CSharp\\PowerChanger\\PowerChanger\\PowerChanger\\MainWindow.xaml",
+              "RelativeToolTip": "PowerChanger\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-06T11:18:53.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

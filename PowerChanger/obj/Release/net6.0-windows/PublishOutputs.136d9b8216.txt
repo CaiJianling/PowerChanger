@@ -1,0 +1,5 @@
+F:\WS\CSharp\PowerChanger\PowerChanger\PowerChanger\bin\Release\net6.0-windows\publish\PowerChanger.exe
+F:\WS\CSharp\PowerChanger\PowerChanger\PowerChanger\bin\Release\net6.0-windows\publish\PowerChanger.dll
+F:\WS\CSharp\PowerChanger\PowerChanger\PowerChanger\bin\Release\net6.0-windows\publish\PowerChanger.deps.json
+F:\WS\CSharp\PowerChanger\PowerChanger\PowerChanger\bin\Release\net6.0-windows\publish\PowerChanger.runtimeconfig.json
+F:\WS\CSharp\PowerChanger\PowerChanger\PowerChanger\bin\Release\net6.0-windows\publish\PowerChanger.pdb
